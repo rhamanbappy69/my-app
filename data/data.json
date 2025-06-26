@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Jonathan Weaver",
+    "email": "jbernard@thompson.com",
+    "isActive": false
+  },
+  {
+    "id": 2,
+    "name": "Leslie Baxter",
+    "email": "kathy82@nguyen.net",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Hannah Lee",
+    "email": "stewartdebbie@gmail.com",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "Carlos Ramirez",
+    "email": "kimberly96@welch.com",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "John Gray",
+    "email": "scottjoseph@hotmail.com",
+    "isActive": false
+  }
+]
