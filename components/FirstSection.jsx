@@ -3,7 +3,7 @@ import Link from "next/link";
 export const FirstSection = () => {
   return (
     <div className="p-4">
-      <h1 className="mb-[10px] text-center text-2xl">This is first section</h1>
+      <h1 className="mb-[10px] text-center text-2xl">This is first section kamrul</h1>
 
       <p className="mb-4">
         London is the capital city of the United Kingdom and one of the most
